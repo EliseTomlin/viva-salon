@@ -24,4 +24,4 @@ Next time I will use React to avoid repetition of code.
 
 ## Lessons Learned:
 
-Test code more often before pushing to my GitHub account to save time from debugging.
+Test code more often before pushing it to my GitHub account to save time from debugging.
