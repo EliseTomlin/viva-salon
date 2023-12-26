@@ -1,4 +1,4 @@
-# My Awesome Project
+# Hair Salon Website
 A beautiful, fully responsive, hair salon website.
 
   <a href="https://vivasalon.netlify.app/" target="_blank">
